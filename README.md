@@ -1,6 +1,6 @@
-# OIH URL Shortener
+# URL Shortener
 
-Serving on `oih.me` now.
+This is a public copy of *OIH URL Shortener* which runs on `oih.me` currently.
 
 ## Get Started
 
