@@ -20,6 +20,19 @@ or
 
 `cargo build --release` and then execute binary file in `./target/release`
 
+## Add a Short Token
+
+### `PUT /`
+
+Params in request body:
+
+  - `url`    Redirect to there
+  - `token`  (Optional) custom short token
+
+### DBA
+
+    INSERT INTO `short_token` (`token`,`target`) VALUES (:token,:target)
+
 ## Environment Variables
 
 `DATABASE_URL` A URL that describes MySQL server connection information.
