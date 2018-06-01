@@ -800,6 +800,7 @@ dependencies = [
  "dotenv 0.11.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "lazy_static 1.0.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "mysql 13.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "rand 0.4.2 (registry+https://github.com/rust-lang/crates.io-index)",
  "regex 0.2.11 (registry+https://github.com/rust-lang/crates.io-index)",
  "rocket 0.3.11 (registry+https://github.com/rust-lang/crates.io-index)",
  "rocket_codegen 0.3.11 (registry+https://github.com/rust-lang/crates.io-index)",
